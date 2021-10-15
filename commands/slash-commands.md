@@ -34,31 +34,7 @@ description: List of slash commands
 
 
 
-### `/config`
 
-* `/config view setting <setting>` - View the specified setting
-* `/config set join-channel <channel>` - Set the channel where join message are sent
-* `/config set leave-channel <channel>` - Set the channel where leave messages are sent
-* `/config set join-msg <template>` - Set the template for join messages
-* `/config set leave-msg <template>` - Set the template for leave messages
-* `/config reset setting <setting>` - Reset the specified setting
-* `/config blacklist channel <channel>` - Blacklist/Unblacklist a specific channel such that commands can/cannot be used in the specified channel
-* `/config test message <type>` - Send a test join/leave message
-
-
-
-
-
-{% hint style="warning" %}
-Please use the [#set-as-template](context-menu-commands.md#set-as-template "mention") command for setting up join / leave message templates. It is much easier to use and also supports multi-line input.^
-{% endhint %}
-
-
-
-
-
-![Setting up the join channel](https://cdn.discordapp.com/attachments/889530273618886686/898137361412657152/unknown.png) ![Setting up the leave channel](https://media.discordapp.net/attachments/889530273618886686/898137443440685056/unknown.png) ![Setting up the join message template](https://cdn.discordapp.com/attachments/889530273618886686/898196313391398912/unknown.png) ![Setting up the leave message template](https://cdn.discordapp.com/attachments/889530273618886686/898196571559174195/unknown.png) ![Resetting the join-channel setting](https://media.discordapp.net/attachments/889530273618886686/898197130798301264/unknown.png?width=1440\&height=141) ![Blacklisting a specific channel](https://cdn.discordapp.com/attachments/889530273618886686/898197527671758848/unknown.png) ![Sending a test join message](https://cdn.discordapp.com/attachments/889530273618886686/898197584865267712/unknown.png)
-{% endtab %}
 
 {% tab title="General" %}
 ## General commands

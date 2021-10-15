@@ -8,16 +8,11 @@ description: List of normal commands
 {% tab title="Config" %}
 ### `reset`
 
-* **Aliases**: `resetinvites`
-* **Usage**: `reset <target>` - if target is an userID / mention, only that specific user's invites will be reset, if it is left empty or "all" it will reset everyone's invites
 
 
 
-### `setprefix`
 
-* **Usage**: `setprefix <new-prefix>` - Sets the bot's prefix to `new-prefix`
 
-![Setting the bot prefix to ;](https://cdn.discordapp.com/attachments/889530273618886686/898223916257009684/unknown.png)
 {% endtab %}
 
 {% tab title="General" %}
