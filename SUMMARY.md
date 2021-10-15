@@ -8,6 +8,7 @@
 
 ## Commands
 
+* [Config](commands/config.md)
 * [Slash Commands](commands/slash-commands.md)
 * [Normal Commands](commands/normal-commands.md)
 * [Context Menu commands](commands/context-menu-commands.md)
