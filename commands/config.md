@@ -39,7 +39,7 @@ description: List of configuration commands
 {% endtabs %}
 
 {% hint style="warning" %}
-Please use the [#set-as-template](context-menu-commands.md#set-as-template "mention") command for setting up join / leave message templates. It is much easier to use and also supports multi-line input.^
+Please use the [#set-as-template](commands/config.md#set-as-template "mention") command for setting up join / leave message templates. It is much easier to use and also supports multi-line input.
 {% endhint %}
 
 # `reset`
