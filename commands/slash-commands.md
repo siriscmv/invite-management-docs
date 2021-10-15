@@ -17,18 +17,7 @@ description: List of slash commands
 
 ![Adding bonus invites](https://cdn.discordapp.com/attachments/889530273618886686/898193226832412702/unknown.png) ![Removing bonus invites](https://cdn.discordapp.com/attachments/889530273618886686/898193447494770718/unknown.png)
 
-### `/reset`
 
-* `/reset <target>` - Resets invites of the specified target user
-* `/reset` - Reset invites for everyone (when \<target> is not specified)
-
-![Resetting invites for everyone](https://cdn.discordapp.com/attachments/889530273618886686/898200612422942720/unknown.png) ![Resetting invites for a specific user ](https://cdn.discordapp.com/attachments/889530273618886686/898200657239097364/unknown.png)
-
-### `/variables`
-
-* `/variables` - View a list of all available variables that you can use to customise join / leave message templates 
-
-![Viewing a list of variables](https://cdn.discordapp.com/attachments/889530273618886686/898201384934051860/unknown.png)
 
 
 
