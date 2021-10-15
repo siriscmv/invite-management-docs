@@ -10,8 +10,8 @@
 
 * [Config](commands/config.md)
 * [General](commands/general.md)
-* [Invites](commands/config.md)
-* [Utility](commands/general.md)
+* [Invites](commands/invites.md)
+* [Utility](commands/utility.md)
 
 ## 🔗 Links
 
