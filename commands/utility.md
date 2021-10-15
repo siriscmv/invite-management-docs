@@ -10,7 +10,7 @@ description: List of utility commands
 * `/accounts <start-date> <type> <end-date> <target>` - Filter accounts that either joined / were created (depending on `type`) after `start-date`, before `end-date` and were invited by `target.`
 * `<end-date>` is optional and defaults to current date
 * `<target>` is optional and defaults to everyone (ie) all accounts
-* The dates can be in any format, example: "10 minutes ago", "10 days ago", "02-09-2021"
+* The dates can be in any format, example: "10 minutes ago", "10 days ago", "02-09-2021". It also accepts a discord snowflake ID (message / user ids for example)
 
 ![This command will filter accounts that joined b/w 5-10 days ago and were invited by liamm.](https://cdn.discordapp.com/attachments/889530273618886686/898208628857765989/unknown.png)
 
