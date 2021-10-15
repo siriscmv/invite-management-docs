@@ -30,4 +30,4 @@ Official Support Server of the bot
 
 ![Example command for setting leave-channel](https://cdn.discordapp.com/attachments/889530273618886686/898137443440685056/unknown.png)
 
-**Setting up join/leave messages**: Use the `Set as template` context menu command to easily setup join/leave messages, for a more detailed explanation: [#set-as-template](commands/context-menu-commands.md#set-as-template "mention")
+**Setting up join/leave messages**: Use the `Set as template` context menu command to easily setup join/leave messages, for a more detailed explanation: [#set-as-template](commands/config.md#set-as-template "mention")

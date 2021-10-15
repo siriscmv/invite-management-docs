@@ -9,9 +9,9 @@
 ## Commands
 
 * [Config](commands/config.md)
-* [Slash Commands](commands/slash-commands.md)
-* [Normal Commands](commands/normal-commands.md)
-* [Context Menu commands](commands/context-menu-commands.md)
+* [General](commands/general.md)
+* [Invites](commands/config.md)
+* [Utility](commands/general.md)
 
 ## 🔗 Links
 
