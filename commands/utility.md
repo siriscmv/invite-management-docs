@@ -31,7 +31,7 @@ description: List of utility commands
 {% tab title="Normal" %}
 
 * **Aliases**: `av`, `pfp`, `banner`
-* **Usage: **`avatar <target>` - Shows the **avatar, server avatar and banner** of the target user
+* **Usage**: `avatar <target>` - Shows the **avatar, server avatar and banner** of the target user
 
 {% endtab %}
 
@@ -50,7 +50,7 @@ description: List of utility commands
 {% tab title="Normal" %}
 
 * **Aliases**: `stickers`, `steal`
-* **Usage**:** **`emojis <emojis...>` - Get a list of all emojis & stickers that are provided, along with a steal button! 
+* **Usage**: `emojis <emojis...>` - Get a list of all emojis & stickers that are provided, along with a steal button! 
 * You can also use the command while replying to an existing message to extract emojis & stickers from that message too
 
 ![Using the emojs command while replying to another message](https://cdn.discordapp.com/attachments/889530273618886686/898232104301764639/unknown.png)
