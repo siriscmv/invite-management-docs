@@ -1,97 +1,111 @@
 ---
-description: List of configuration commands
+description: List of utility commands
 ---
 
-### `/bonus-invites`
+# `accounts`
 
 {% tabs %}
 {% tab title="Slash" %}
 
-* `/bonus-invites add <target> <invites>` - Add invites to the target user
-* `/bonus-invites remove <target> <invites>` - Remove invites from the target user
+* `/accounts <start-date> <type> <end-date> <target>` - Filter accounts that either joined / were created (depending on `type`) after `start-date`, before `end-date` and were invited by `target.`
+* `<end-date>` is optional and defaults to current date
+* `<target>` is optional and defaults to everyone (ie) all accounts
+* The dates can be in any format, example: "10 minutes ago", "10 days ago", "02-09-2021"
 
-![Adding bonus invites](https://cdn.discordapp.com/attachments/889530273618886686/898193226832412702/unknown.png) ![Removing bonus invites](https://cdn.discordapp.com/attachments/889530273618886686/898193447494770718/unknown.png)
+![This command will filter accounts that joined b/w 5-10 days ago and were invited by liamm.](https://cdn.discordapp.com/attachments/889530273618886686/898208628857765989/unknown.png)
 
 {% endtab %}
 {% endtabs %}
 
-### `/config`
+# `avatar`
 
 {% tabs %}
 {% tab title="Slash" %}
 
-* `/config view setting <setting>` - View the specified setting
-* `/config set join-channel <channel>` - Set the channel where join message are sent
-* `/config set leave-channel <channel>` - Set the channel where leave messages are sent
-* `/config set join-msg <template>` - Set the template for join messages
-* `/config set leave-msg <template>` - Set the template for leave messages
-* `/config reset setting <setting>` - Reset the specified setting
-* `/config blacklist channel <channel>` - Blacklist/Unblacklist a specific channel such that commands can/cannot be used in the specified channel
-* `/config test message <type>` - Send a test join/leave message
+* `/avatar <target> <hide-reply>` - Shows the **avatar, server avatar and banner** of the target user, if `hide-reply` is `true` the response will be ephemeral (can be seen only by you)
 
-![Setting up the join channel](https://cdn.discordapp.com/attachments/889530273618886686/898137361412657152/unknown.png) ![Setting up the leave channel](https://media.discordapp.net/attachments/889530273618886686/898137443440685056/unknown.png) ![Setting up the join message template](https://cdn.discordapp.com/attachments/889530273618886686/898196313391398912/unknown.png) ![Setting up the leave message template](https://cdn.discordapp.com/attachments/889530273618886686/898196571559174195/unknown.png) ![Resetting the join-channel setting](https://media.discordapp.net/attachments/889530273618886686/898197130798301264/unknown.png?width=1440\&height=141) ![Blacklisting a specific channel](https://cdn.discordapp.com/attachments/889530273618886686/898197527671758848/unknown.png) ![Sending a test join message](https://cdn.discordapp.com/attachments/889530273618886686/898197584865267712/unknown.png)
-
-{% endtab %}
-{% endtabs %}
-
-{% hint style="warning" %}
-Please use the [#set-as-template](context-menu-commands.md#set-as-template "mention") command for setting up join / leave message templates. It is much easier to use and also supports multi-line input.^
-{% endhint %}
-
-### `/reset`
-
-{% tabs %}
-{% tab title="Slash" %}
-
-* `/reset <target>` - Resets invites of the specified target user
-* `/reset` - Reset invites for everyone (when \<target> is not specified)
-
-![Resetting invites for everyone](https://cdn.discordapp.com/attachments/889530273618886686/898200612422942720/unknown.png) ![Resetting invites for a specific user ](https://cdn.discordapp.com/attachments/889530273618886686/898200657239097364/unknown.png)
+![Getting the avatar with hide-reply set to true](https://cdn.discordapp.com/attachments/889530273618886686/898614232172625960/unknown.png)
 
 {% endtab %}
 
 {% tab title="Normal" %}
 
-* **Aliases**: `resetinvites`
-* **Usage**: `reset <target>` - if target is an userID / mention, only that specific user's invites will be reset, if it is left empty or "all" it will reset everyone's invites
+* **Aliases**: `av`, `pfp`, `banner`
+* **Usage: **`avatar <target>` - Shows the **avatar, server avatar and banner** of the target user
 
 {% endtab %}
-{% endtabs %}
 
-### `Set as template`
-
-{% tabs %}
 {% tab title="Context Menu" %}
 
-* Send the template using variables (from the `/variables` slash command) as a normal message
-* Right click the message that you just sent, click on `Apps` then `Set as template` 
-* Choose the type of template that you are trying to set
-
-![Setting up join messages using the Set as template context menu command](https://cdn.discordapp.com/attachments/889530273618886686/894923573788024903/joinmsg.gif)
+* Go to the profile of the target user
+* Right click them, then `Apps`, then `Avatar`
 
 {% endtab %}
+
 {% endtabs %}
 
-### `setprefix`
+# `emojis`
 
 {% tabs %}
 {% tab title="Normal" %}
 
-* **Usage**: `setprefix <new-prefix>` - Sets the bot's prefix to `new-prefix`
+* **Aliases**: `stickers`, `steal`
+* **Usage**:** **`emojis <emojis...>` - Get a list of all emojis & stickers that are provided, along with a steal button! 
+* You can also use the command while replying to an existing message to extract emojis & stickers from that message too
 
-![Setting the bot prefix to ;](https://cdn.discordapp.com/attachments/889530273618886686/898223916257009684/unknown.png)
+![Using the emojs command while replying to another message](https://cdn.discordapp.com/attachments/889530273618886686/898232104301764639/unknown.png)
+
+{% endtab %}
+
+{% tab title="Context Menu" %}
+
+* Go to the target message (that contains the emojis/stickers)
+* Right click it, then `Apps`, then `Emojis`
 
 {% endtab %}
 {% endtabs %}
 
-### `/variables`
+# `membercount`
 
 {% tabs %}
 {% tab title="Slash" %}
 
-* `/variables` - View a list of all available variables that you can use to customise join / leave message templates 
+* `/membercount` - Shows the member count of the server along with more statistics and a beautiful graph
 
-![Viewing a list of variables](https://cdn.discordapp.com/attachments/889530273618886686/898201384934051860/unknown.png)
+![The membercount command](https://cdn.discordapp.com/attachments/889530273618886686/898614853093179504/unknown.png)
+
+{% endtab %}
+
+{% tab title="Normal" %}
+
+* **Aliases**: `mc`
+* **Usage**: `membercount` - Shows the member count of the server along with more statistics and a beautiful graph
+
+{% endtab %}
+{% endtabs %}
+
+# `userinfo`
+
+{% tabs %}
+{% tab title="Slash" %}
+
+* `/userinfo <target>` - Shows detailed information about any user, such as tag, avatar, roles, invites count, inviter, account age, badges, etc.
+
+![The userinfo command](https://cdn.discordapp.com/attachments/889530273618886686/898615537414864896/unknown.png)
+
+{% endtab %}
+
+{% tab title="Normal" %}
+
+* **Aliases**: `ui`, `whois`
+* **Usage**: `userinfo <target>` - Shows detailed information about any user, such as tag, avatar, roles, invites count, inviter, account age, badges, etc.
+
+{% endtab %}
+
+{% tab title="Context Menu" %}
+
+* Go to the profile of the target user
+* Right click them, then `Apps`, then `Userinfo`
 
 {% endtab %}
 {% endtabs %}
