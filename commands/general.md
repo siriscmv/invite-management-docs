@@ -102,6 +102,22 @@ description: List of general commands
 {% endtab %}
 {% endtabs %}
 
+# `vote`
+
+{% tabs %}
+{% tab title="Slash" %}
+
+* `/vote target` - Shows the vote count of the specified user & total vote count
+
+{% endtab %}
+
+{% tab title="Normal" %}
+
+* `vote <target>` - Shows the vote count of the specified user & total vote count
+
+{% endtab %}
+{% endtabs %}
+
 {% hint style="success" %}
 Normal commands are supposed to be used with a prefix. The default prefix for normal commands is the bot's mention ( **`@Invite Management#6068`** ) and **`+`**
 {% endhint %}
