@@ -17,6 +17,6 @@
 * **Invited** shows a paginated list of users invited by the specified user
 * **Leaderboard** shows a paginated list of top inviters in your server (edited)
 
-![Invites command](https://cdn.discordapp.com/attachments/874648443468001300/896644432839966730/userlmn\_8e2e4089aa466f5ce4a63675ab82dad7.png) ![inviter command](https://cdn.discordapp.com/attachments/874648443468001300/896644816010633217/userlmn_e2cbb32d7911f5fef6e9e63c8d46daf0.png)
+![Invites command](https://i.imgur.com/5UQ1KXM.png) ![inviter command](https://i.imgur.com/ZC6Cv1R.png)
 
-![invited command](https://cdn.discordapp.com/attachments/874648443468001300/896644929441370173/userlmn_cddfbb103a21ee8cc28c36aa4a2dcece.png) ![leaderboard command](https://cdn.discordapp.com/attachments/874648443468001300/896645058898583552/userlmn_a7b65bb931536e396524846fc5ab836c.png)
+![invited command](https://i.imgur.com/1BEYcru.png) ![leaderboard command](https://i.imgur.com/iqlDooM.png)

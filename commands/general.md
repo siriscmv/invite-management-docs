@@ -15,8 +15,6 @@ description: List of general commands
 
 * `faq` - Get a list of frequently asked questions 
 
-![The faq command](https://cdn.discordapp.com/attachments/889530273618886686/898224193257234432/unknown.png)
-
 {% endtab %}
 {% endtabs %}
 
@@ -26,8 +24,6 @@ description: List of general commands
 {% tab title="Slash" %}
 
 * `/help` - Shows a list of commands with their description, mentioning a specific command will show more information about that particular command
-
-![The help command](https://cdn.discordapp.com/attachments/889530273618886686/898202869898027038/unknown.png)
 
 {% endtab %}
 

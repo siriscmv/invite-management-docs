@@ -4,7 +4,8 @@
 * **Emojis** command that lets you view multiple emojis/stickers & add them to your own server
 * **Accounts** command that lets you filter users present in your server according to the creation / join time & their inviter
 * **Avatar** command that shows you the avatar, server avatar and banner of any user
+* **Membercount** command that shows your server's member strength along with useful visual data
 
-![userinfo command](https://cdn.discordapp.com/attachments/874648443468001300/896645230630166528/userlmn\_6b08210d70e27028286c1a9f21694365.png) ![emojis command](https://cdn.discordapp.com/attachments/874648443468001300/896645307021017088/userlmn_dbfbb45595f66700b0bf7217494cc856.png)
+![userinfo command](https://i.imgur.com/a5mSU8m.png) ![membercount command](https://i.imgur.com/UXPFf7T.png)
 
-![accounts command](https://cdn.discordapp.com/attachments/874648443468001300/896645378697469962/userlmn\_00093e727879d43d46dbc890b7b83486.png) ![avatar command](https://cdn.discordapp.com/attachments/874648443468001300/896645471676792842/userlmn\_2e87721bb47b1b70aadae3cde2898281.png)
+![accounts command](https://i.imgur.com/PPYCWKS.png)

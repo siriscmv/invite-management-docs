@@ -25,6 +25,8 @@ description: List of commands related to invites
 
 * `/invited <target>` - Get a list of users invited by the target user
 
+![The invited command](https://i.imgur.com/1BEYcru.png)
+
 {% endtab %}
 
 {% tab title="Normal" %}
@@ -57,7 +59,7 @@ description: List of commands related to invites
 
 * `/inviter <target>` - Find the person who invited the target user
 
-![The inviter command](https://cdn.discordapp.com/attachments/889530273618886686/898207843960913990/unknown.png)
+![The inviter command](https://i.imgur.com/ZC6Cv1R.png)
 
 {% endtab %}
 
@@ -72,8 +74,6 @@ description: List of commands related to invites
 * Go the profile of the target user
 * Right click them, then `Apps`, then `Inviter`
 
-![Finding the inviter of a target user using the Inviter context menu command](https://media.discordapp.net/attachments/889530273618886686/894923565374275675/cm_user.gif?width=1374\&height=678)
-
 {% endtab %}
 {% endtabs %}
 
@@ -84,13 +84,13 @@ description: List of commands related to invites
 
 * `/invites <target>` - Get the invite count of the target user 
 
+![The invites command](https://i.imgur.com/5UQ1KXM.png)
+
 {% endtab %}
 
 {% tab title="Normal" %}
 
 * `invites <target>` - Get the invite count of the target user 
-
-![The invites command](https://cdn.discordapp.com/attachments/889530273618886686/898224542441406504/unknown.png)
 
 {% endtab %}
 {% endtabs %}

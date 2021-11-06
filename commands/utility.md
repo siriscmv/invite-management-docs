@@ -12,7 +12,7 @@ description: List of utility commands
 * `<target>` is optional and defaults to everyone (ie) all accounts
 * The dates can be in any format, example: "10 minutes ago", "10 days ago", "02-09-2021". It also accepts a discord snowflake ID (message / user ids for example)
 
-![This command will filter accounts that joined b/w 5-10 days ago and were invited by liamm.](https://cdn.discordapp.com/attachments/889530273618886686/898208628857765989/unknown.png)
+![This command will filter accounts that joined b/w 5-10 days ago and were invited by liamm.](https://i.imgur.com/UXMMOfQ.png)
 
 {% endtab %}
 {% endtabs %}
@@ -24,7 +24,7 @@ description: List of utility commands
 
 * `/avatar <target> <hide-reply>` - Shows the **avatar, server avatar and banner** of the target user, if `hide-reply` is `true` the response will be ephemeral (can be seen only by you)
 
-![Getting the avatar with hide-reply set to true](https://cdn.discordapp.com/attachments/889530273618886686/898614232172625960/unknown.png)
+![Getting the avatar with hide-reply set to true](https://i.imgur.com/YOJZMz2.png)
 
 {% endtab %}
 
@@ -53,7 +53,7 @@ description: List of utility commands
 * **Usage**: `emojis <emojis...>` - Get a list of all emojis & stickers that are provided, along with a steal button! 
 * You can also use the command while replying to an existing message to extract emojis & stickers from that message too
 
-![Using the emojs command while replying to another message](https://cdn.discordapp.com/attachments/889530273618886686/898232104301764639/unknown.png)
+![Using the emojs command while replying to another message](https://i.imgur.com/QiT6Urp.png)
 
 {% endtab %}
 
@@ -72,7 +72,7 @@ description: List of utility commands
 
 * `/membercount` - Shows the member count of the server along with more statistics and a beautiful graph
 
-![The membercount command](https://cdn.discordapp.com/attachments/889530273618886686/898614853093179504/unknown.png)
+![The membercount command](https://i.imgur.com/UXPFf7T.png)
 
 {% endtab %}
 
@@ -91,7 +91,7 @@ description: List of utility commands
 
 * `/userinfo <target>` - Shows detailed information about any user, such as tag, avatar, roles, invites count, inviter, account age, badges, etc.
 
-![The userinfo command](https://cdn.discordapp.com/attachments/889530273618886686/898615537414864896/unknown.png)
+![The userinfo command](https://i.imgur.com/a5mSU8m.png)
 
 {% endtab %}
 

@@ -11,7 +11,7 @@ description: List of configuration commands
 * `/bonus-invites add <target> <invites>` - Add invites to the target user
 * `/bonus-invites remove <target> <invites>` - Remove invites from the target user
 
-![Adding bonus invites](https://cdn.discordapp.com/attachments/889530273618886686/898193226832412702/unknown.png) ![Removing bonus invites](https://cdn.discordapp.com/attachments/889530273618886686/898193447494770718/unknown.png)
+![Adding bonus invites](https://i.imgur.com/MlrJa9L.png)
 {% endtab %}
 {% endtabs %}
 
@@ -28,7 +28,7 @@ description: List of configuration commands
 * `/config blacklist channel <channel>` - Blacklist/Unblacklist a specific channel such that commands can/cannot be used in the specified channel
 * `/config test message <type>` - Send a test join/leave message
 
-![Setting up the join channel](https://cdn.discordapp.com/attachments/889530273618886686/898137361412657152/unknown.png) ![Setting up the leave channel](https://media.discordapp.net/attachments/889530273618886686/898137443440685056/unknown.png) ![Setting up the join message template](https://cdn.discordapp.com/attachments/889530273618886686/898196313391398912/unknown.png) ![Setting up the leave message template](https://cdn.discordapp.com/attachments/889530273618886686/898196571559174195/unknown.png) ![Resetting the join-channel setting](https://media.discordapp.net/attachments/889530273618886686/898197130798301264/unknown.png?width=1440\&height=141) ![Blacklisting a specific channel](https://cdn.discordapp.com/attachments/889530273618886686/898197527671758848/unknown.png) ![Sending a test join message](https://cdn.discordapp.com/attachments/889530273618886686/898197584865267712/unknown.png)
+![Setting up the join channel](https://i.imgur.com/nmF3XTD.png) ![Setting up the leave channel](https://i.imgur.com/YHx8BcL.png) ![Resetting the join-channel setting](https://i.imgur.com/WJEdmjy.png) ![Blacklisting a specific channel](https://i.imgur.com/zEQz6Zf.png) ![Sending a test join message](https://i.imgur.com/3VNOccd.png)
 {% endtab %}
 {% endtabs %}
 
@@ -43,7 +43,7 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 * `/reset <target>` - Resets invites of the specified target user
 * `/reset` - Reset invites for everyone (when \<target> is not specified)
 
-![Resetting invites for everyone](https://cdn.discordapp.com/attachments/889530273618886686/898200612422942720/unknown.png) ![Resetting invites for a specific user](https://cdn.discordapp.com/attachments/889530273618886686/898200657239097364/unknown.png)
+![The reset command](https://i.imgur.com/g9Eom1k.gif)
 {% endtab %}
 
 {% tab title="Normal" %}
@@ -60,7 +60,7 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 * Right click the message that you just sent, click on `Apps` then `Set as template`
 * Choose the type of template that you are trying to set
 
-![Setting up join messages using the Set as template context menu command](https://cdn.discordapp.com/attachments/889530273618886686/894923573788024903/joinmsg.gif)
+![Setting up join messages using the Set as template context menu command](https://i.imgur.com/BOvkzue.gif)
 {% endtab %}
 {% endtabs %}
 
@@ -70,7 +70,7 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 {% tab title="Normal" %}
 * **Usage**: `setprefix <new-prefix>` - Sets the bot's prefix to `new-prefix`
 
-![Setting the bot prefix to ;](https://cdn.discordapp.com/attachments/889530273618886686/898223916257009684/unknown.png)
+![Setting the bot prefix to ;](https://i.imgur.com/WxWHM9L.png)
 {% endtab %}
 {% endtabs %}
 
@@ -80,7 +80,6 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 {% tab title="Slash" %}
 * `/variables` - View a list of all available variables that you can use to customise join / leave message templates
 
-![Viewing a list of variables](https://cdn.discordapp.com/attachments/889530273618886686/898201384934051860/unknown.png)
 {% endtab %}
 {% endtabs %}
 

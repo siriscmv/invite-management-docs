@@ -20,14 +20,14 @@ Invite link of the bot
 Official Support Server of the bot
 {% endembed %}
 
-## Setting up the bot
+## Basic setup
 
 **Setting up join/leave channels**: Use the `/config set` slash command to setup join and leave channels by specifying the channel.
 
-![Setting up the join channel](https://cdn.discordapp.com/attachments/889530273618886686/894923564774461530/joinchannel.gif)
+![Setting up the join channel](https://i.imgur.com/kWe5qjX.gif)
 
-![Example command for setting join-channel](https://cdn.discordapp.com/attachments/889530273618886686/898137361412657152/unknown.png)
+![Example command for setting join-channel](https://i.imgur.com/nmF3XTD.png)
 
-![Example command for setting leave-channel](https://cdn.discordapp.com/attachments/889530273618886686/898137443440685056/unknown.png)
+![Example command for setting leave-channel](https://i.imgur.com/YHx8BcL.png)
 
 **Setting up join/leave messages**: Use the [#set-as-template](commands/config.md#set-as-template "mention") context menu command to easily setup join/leave messages
