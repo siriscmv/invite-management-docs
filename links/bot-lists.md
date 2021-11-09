@@ -12,9 +12,9 @@ You can vote once in 12 hours
 * **`discord.bots`** - [https://discord.bots.gg/bots/873934253468024852 ](https://discord.bots.gg/bots/873934253468024852)
 * **`top.gg`** - [https://top.gg/bot/873934253468024852](https://top.gg/bot/873934253468024852)
 
+![Invite Management on top.gg](https://top.gg/api/widget/873934253468024852.svg)  
+
 {% embed url="https://top.gg/bot/873934253468024852/vote" %}
 Vote for our bot!  
 
 {% endembed %}  
-
-![Invite Management on top.gg](https://top.gg/api/widget/873934253468024852.svg)
