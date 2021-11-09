@@ -15,6 +15,6 @@ You can vote once in 12 hours
 {% embed url="https://top.gg/bot/873934253468024852/vote" %}
 Vote for our bot!  
 
-![Invite Management on top.gg](https://top.gg/api/widget/873934253468024852.svg)
+{% endembed %}  
 
-{% endembed %}
+![Invite Management on top.gg](https://top.gg/api/widget/873934253468024852.svg)
