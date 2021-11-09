@@ -11,9 +11,10 @@ This permission is essential for majority of the commands to work correctly
 {% endhint %}
 
 * **`Short Link`** - [https://dsc.gg/tracker](https://dsc.gg/tracker)
-* **`Default link`** - [https://discord.com/api/oauth2/authorize?client_id=873934253468024852\&permissions=2214939680\&scope=bot%20applications.commands](https://discord.com/api/oauth2/authorize?client_id=873934253468024852\&permissions=2214939680\&scope=bot%20applications.commands)
+* **`Another Short Link`** - [https://dsc.im/bot](https://dsc.im/bot)
+* **`Default link`** - [https://discord.com/oauth2/authorize?&client_id=873934253468024852&scope=applications.commands+bot&permissions=2214939680&response_type=code&redirect_uri=https://siris.gitbook.io/invite-management/](https://discord.com/oauth2/authorize?&client_id=873934253468024852&scope=applications.commands+bot&permissions=2214939680&response_type=code&redirect_uri=https://siris.gitbook.io/invite-management/)
 
-![Discord Bots](https://top.gg/api/widget/873934253468024852.svg)
+![Invite Management](https://top.gg/api/widget/873934253468024852.svg)
 
 {% embed url="https://dsc.gg/tracker" %}
 Invite our bot!
