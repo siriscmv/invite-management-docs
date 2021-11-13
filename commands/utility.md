@@ -76,7 +76,7 @@ description: List of utility commands
 * `/info server` - Get information about the server like members, boosts, roles, emojis, etc
 * `/info user <target>` - Get information about the target user like created at, pfp, banner, etc
 
-![info role command](https://i.imgur.com/NLeCrvc.png) ![info user command](https://i.imgur.com/JI150MQ.png)
+![The info role command](https://i.imgur.com/NLeCrvc.png) ![The info user command](https://i.imgur.com/JI150MQ.png)
 {% endtab %}
 {% endtabs %}
 
