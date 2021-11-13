@@ -65,6 +65,21 @@ description: List of utility commands
 {% endtab %}
 {% endtabs %}
 
+## `info`
+
+{% tabs %}
+{% tab title="Slash" %}
+* `/info channel <target>` - Get information about the target channel like type, position, etc
+* `/info colour <target>` - Get information about the target colour like hex String, int value, complementary colours, etc
+* `/info invite <link>` - Get information about the target link like server name, created at, etc
+* `/info role <target>` - Get information about the target role like name, colour, members, permissions, etc
+* `/info server` - Get information about the server like members, boosts, roles, emojis, etc
+* `/info user <target>` - Get information about the target user like created at, pfp, banner, etc
+
+![info roles commands](https://i.imgur.com/NLeCrvc.png) ![info user commands](https://i.imgur.com/JI150MQ.png)
+{% endtab %}
+{% endtabs %}
+
 # `membercount`
 
 {% tabs %}
@@ -80,32 +95,6 @@ description: List of utility commands
 
 * **Aliases**: `mc`
 * **Usage**: `membercount` - Shows the member count of the server along with more statistics and a beautiful graph
-
-{% endtab %}
-{% endtabs %}
-
-# `userinfo`
-
-{% tabs %}
-{% tab title="Slash" %}
-
-* `/userinfo <target>` - Shows detailed information about any user, such as tag, avatar, roles, invites count, inviter, account age, badges, etc.
-
-![The userinfo command](https://i.imgur.com/a5mSU8m.png)
-
-{% endtab %}
-
-{% tab title="Normal" %}
-
-* **Aliases**: `ui`, `whois`
-* **Usage**: `userinfo <target>` - Shows detailed information about any user, such as tag, avatar, roles, invites count, inviter, account age, badges, etc.
-
-{% endtab %}
-
-{% tab title="Context Menu" %}
-
-* Go to the profile of the target user
-* Right click them, then `Apps`, then `Userinfo`
 
 {% endtab %}
 {% endtabs %}

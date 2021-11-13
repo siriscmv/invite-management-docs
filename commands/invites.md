@@ -36,22 +36,6 @@ description: List of commands related to invites
 {% endtab %}
 {% endtabs %}
 
-# `inviteinfo`
-
-{% tabs %}
-{% tab title="Slash" %}
-
-* `/inviteinfo <invite-link>` - Get information about an Invite link
-
-{% endtab %}
-
-{% tab title="Normal" %}
-
-* `inviteinfo <invite-link>` - Get information about an Invite link
-
-{% endtab %}
-{% endtabs %}
-
 # `inviter`
 
 {% tabs %}
