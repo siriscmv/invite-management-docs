@@ -56,7 +56,7 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 
 {% tabs %}
 {% tab title="Context Menu" %}
-* Send the template using variables (from the `/variables` slash command) as a normal message. Click on [#variables](commands/config.md#variables "mention") for a list of variables
+* Send the template using variables (from the `/variables` slash command) as a normal message. Click on [#variables](config.md#variables "mention") for a list of variables
 * Right click the message that you just sent, click on `Apps` then `Set as template`
 * Choose the type of template that you are trying to set
 
