@@ -16,7 +16,7 @@ Click the links below to add the bot and join our support server
 Invite link of the bot
 {% endembed %}
 
-{% embed url="https://dsc.gg/invitesupport" %}
+{% embed url="https://dsc.gg/invi-support" %}
 Official Support Server of the bot
 {% endembed %}
 
