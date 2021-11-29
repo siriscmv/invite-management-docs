@@ -99,7 +99,7 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 * `guild_name` - The name of the server
 * `guild_membercount` - The total number of members present in the server
 
-**Note:** The variables are supposed to be include in `${}` (example: `${inviter_tag}`)
+**Note:** The variables are supposed to be enclosed within `${}` (example: `${inviter_tag}`)
 {% endtab %}
 {% endtabs %}
 
