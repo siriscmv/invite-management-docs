@@ -12,7 +12,7 @@ description: About the bot
 
 Click the links below to add the bot and join our support server
 
-{% embed url="https://dsc.gg/tracker" %}
+{% embed url="https://dsc.gg/invi" %}
 Invite link of the bot
 {% endembed %}
 
