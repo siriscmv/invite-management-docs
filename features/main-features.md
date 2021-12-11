@@ -7,8 +7,9 @@
 ## **100% customisable join and leave messages**
 
 * **Variables** command gives you the extensive list of variables that can be used to customise your messages
+* Supports upto 10 **embeds** and 5 URL **Buttons**
 
-## **Makes efficient use of Discord's new interactions (slash commands, context menus)**
+![Fully customisable messages](https://i.imgur.com/kPQ2x4T.png) 
 
 ## **Plethora of useful invite management commands**
 

@@ -33,7 +33,7 @@ description: List of configuration commands
 {% endtabs %}
 
 {% hint style="warning" %}
-Please use the [#set-as-template](config.md#set-as-template "mention") command for setting up join / leave message templates. It is much easier to use and also supports multi-line input.
+Please use the [#set-as-template](config.md#set-as-template "mention") command for setting up join / leave message templates. It is much easier to use and also supports multi-line input, embeds, and URL buttons!
 {% endhint %}
 
 ## `reset`
@@ -57,10 +57,11 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 {% tabs %}
 {% tab title="Context Menu" %}
 * Send the template as a normal message. Check out [#variables](config.md#variables "mention") for a list of variables
+* If you want your template to have embeds, you can use an embed builder like [discord.club](https://discord.club/dashboard)
 * Right click the message that you just sent, click on `Apps` then `Set as template`
 * Choose the type of template that you are trying to set
 
-![Setting up join messages using the Set as template context menu command](https://i.imgur.com/BOvkzue.gif)
+![Setting up join messages using the Set as template context menu command](https://i.imgur.com/NydLETl.gif)
 {% endtab %}
 {% endtabs %}
 
@@ -98,8 +99,11 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 * `invite_uses` - The number of uses the invite code has
 * `guild_name` - The name of the server
 * `guild_membercount` - The total number of members present in the server
+* `https:\/\/cdn\.discordapp\.com\/avatars\/user` - The avatar link of the user who joined
+* `https:\/\/cdn\.discordapp\.com\/avatars\/server` - The avatar link of the server
+* `https:\/\/cdn\.discordapp\.com\/avatars\/inviter` - The avatar link of the inviter 
 
-**Note:** The variables are supposed to be enclosed within `${}` (example: `${inviter_tag}`)
+**Note:** All the variables (excpet the last 3 avatar type variables) are supposed to be enclosed within `${}` (example: `${inviter_tag}`)
 {% endtab %}
 {% endtabs %}
 

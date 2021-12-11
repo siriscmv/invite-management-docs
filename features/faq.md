@@ -6,9 +6,10 @@ Learn how to setup the join channel, and how to customize the template
 
 ![setting up join channel](https://i.imgur.com/kWe5qjX.gif)  
 * Use the `Set as template` context menu to setup templates easily!  
-  Use the `/variables` slash command to get a list of available variables that you can use in your template.  
+* Look at [#variables](commands/config.md#variables "mention") for a list of available variables that you can use in your template.  
+* You can use an embed builder like [discord.club](https://discord.club/dashboard) for making the template
 
-![setting up join message](https://i.imgur.com/BOvkzue.gif)  
+![setting up join message](https://i.imgur.com/NydLETl.gif)  
 
 ## Context Menus
 Learn to use context menus
