@@ -1,9 +1,9 @@
 # Table of contents
 
-## Features
+## 🎉 Features
 
 * [Introduction](README.md)
-* [Main features ](features/main-features.md)
+* [Main features](features/main-features.md)
 * [Utility features](features/utility-features.md)
 * [FAQ](features/faq.md)
 
@@ -14,7 +14,7 @@
 * [Invites](commands/invites.md)
 * [Utility](commands/utility.md)
 
-## Links
+## 🔗 Links
 
 * [Invite me](links/invite-me.md)
 * [Support](links/support.md)
