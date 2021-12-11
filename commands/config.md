@@ -99,9 +99,9 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 * `invite_uses` - The number of uses the invite code has
 * `guild_name` - The name of the server
 * `guild_membercount` - The total number of members present in the server
-* `https:\/\/cdn\.discordapp\.com\/avatars\/user` - The avatar link of the user who joined
-* `https:\/\/cdn\.discordapp\.com\/avatars\/server` - The avatar link of the server
-* `https:\/\/cdn\.discordapp\.com\/avatars\/inviter` - The avatar link of the inviter 
+* `https://cdn.discordapp.com/avatars/user` - The avatar link of the user who joined
+* `https://cdn.discordapp.com/avatars/server` - The avatar link of the server
+* `https://cdn.discordapp.com/avatars/inviter` - The avatar link of the inviter 
 
 **Note:** All the variables (excpet the last 3 avatar type variables) are supposed to be enclosed within `${}` (example: `${inviter_tag}`)
 {% endtab %}
