@@ -1,13 +1,14 @@
 # Table of contents
 
+* [Introduction](README.md)
+* [Basic Setup](SETUP.md)
 ## 🎉 Features
 
-* [Introduction](README.md)
 * [Main features](features/main-features.md)
 * [Utility features](features/utility-features.md)
 * [FAQ](features/faq.md)
 
-## Commands
+## 🤖 Commands
 
 * [Config](commands/config.md)
 * [General](commands/general.md)
