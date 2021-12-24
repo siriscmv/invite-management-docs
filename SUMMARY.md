@@ -20,4 +20,4 @@
 * [Invite me](links/invite-me.md)
 * [Support](links/support.md)
 * [Bot lists](links/bot-lists.md)
-* [website](links/website.md)
+* [Website](links/website.md)
