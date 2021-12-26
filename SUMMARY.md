@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 * [Basic Setup](SETUP.md)
+* [FAQ](features/FAQ.md)
 ## 🎉 Features
 
 * [Main features](features/main-features.md)
 * [Utility features](features/utility-features.md)
-* [FAQ](features/faq.md)
 
 ## 🤖 Commands
 
