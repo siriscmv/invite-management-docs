@@ -6,6 +6,6 @@
 * **Avatar** command that shows you the avatar, server avatar and banner of any user
 * **Membercount** command that shows your server's member strength along with useful visual data
 
-![info roles command](https://i.imgur.com/NLeCrvc.png) ![membercount command](https://i.imgur.com/UXPFf7T.png)
+![Accounts command](https://i.imgur.com/PPYCWKS.png)
 
-![accounts command](https://i.imgur.com/PPYCWKS.png)
+![Info roles command](https://i.imgur.com/NLeCrvc.png) ![Membercount command](https://i.imgur.com/UXPFf7T.png)
