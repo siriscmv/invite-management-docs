@@ -27,6 +27,8 @@ description: List of configuration commands
 * `/config reset setting <setting>` - Reset the specified setting
 * `/config blacklist channel <channel>` - Blacklist/Unblacklist a specific channel such that commands can/cannot be used in the specified channel
 * `/config test message <type>` - Send a test join/leave message
+* `/config auto-refresh-leaderboard set <Channel>` - Setup the auto-refresh invites lb in the specified channel
+* `/config auto-refresh-leaderboard reset` - Disable the current auto-refresh lb
 
 ![Setting up the join channel](https://i.imgur.com/nmF3XTD.png) ![Setting up the leave channel](https://i.imgur.com/YHx8BcL.png) ![Resetting the join-channel setting](https://i.imgur.com/WJEdmjy.png) ![Blacklisting a specific channel](https://i.imgur.com/zEQz6Zf.png) ![Sending a test join message](https://i.imgur.com/3VNOccd.png)
 {% endtab %}
