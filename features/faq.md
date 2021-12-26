@@ -60,7 +60,7 @@ Prevent members from using bot commands in specific channels
 
 ![Blacklisting a channel](https://i.imgur.com/BJu2VOB.gif)
 
-## auto-refresh leaderboard
+## Auto-refresh leaderboard
 
 Setup an invites lb that refreshes itself automatically. It also has a handy "check invites" button.
 
@@ -68,4 +68,4 @@ Setup an invites lb that refreshes itself automatically. It also has a handy "ch
 * To disabled it, run the `/config auto-refresh-leaderboard reset` command
 * Note: You can have only 1 auto-refresh lb per server
 
-![auto-refresh lb](https://i.imgur.com/ufCR3O7.gif)
+![Auto-refresh lb](https://i.imgur.com/ufCR3O7.gif)
