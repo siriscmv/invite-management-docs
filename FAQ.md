@@ -1,3 +1,7 @@
+---
+description: Some frequently asked questions about the bot
+---
+
 # FAQ
 
 ## Basic setup
