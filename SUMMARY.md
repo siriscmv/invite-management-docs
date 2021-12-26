@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Basic Setup](SETUP.md)
-* [FAQ](features/FAQ.md)
+* [FAQ](FAQ.md)
 ## 🎉 Features
 
 * [Main features](features/main-features.md)
