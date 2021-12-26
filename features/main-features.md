@@ -11,6 +11,13 @@
 
 ![Fully customisable messages](https://i.imgur.com/kPQ2x4T.png) 
 
+## **Auto refresh invites leaderboard**
+
+* An invites leaderboard that updates itself once in an hour automatically!
+* Features a "Check invites" button that show current invites count along with rank
+
+![Auto refresh leaderboard](https://i.imgur.com/75DfNfh.gif) 
+
 ## **Plethora of useful invite management commands**
 
 * **Invites** shows you invite count of an user!
