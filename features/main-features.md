@@ -14,7 +14,7 @@
 ## **Auto refresh invites leaderboard**
 
 * An invites leaderboard that updates itself once in an hour automatically!
-* Features a "Check invites" button that show current invites count along with rank
+* Features a "Check invites" button that shows current invites count along with rank
 
 ![Auto refresh leaderboard](https://i.imgur.com/75DfNfh.gif) 
 
