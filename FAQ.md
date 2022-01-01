@@ -12,9 +12,10 @@ Learn how to setup the join channel, and how to customize the template&#x20;
 
 ![setting up join channel](https://i.imgur.com/kWe5qjX.gif)
 
-* Use the `Set as template` context menu to setup templates easily!
-* Look at [#variables](../commands/config.md#variables "mention") for a list of available variables that you can use in your template.
+* Use the [#set-as-template](commands/config.md#set-as-template "mention") command to setup templates easily!
+* Look at [#variables](commands/config.md#variables "mention") for a list of available variables that you can use in your template.
 * You can use an embed builder like [discord.club](https://discord.club/dashboard) for making the template
+* Check out this [repo](https://github.com/Siris01/invite-management-templates) for a list of premade templates
 
 ![setting up join message](https://i.imgur.com/NydLETl.gif)
 

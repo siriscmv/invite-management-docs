@@ -68,6 +68,7 @@ Checkout [#verification-system](../FAQ.md#verification-system "mention") to setu
 {% tab title="Context Menu" %}
 * Send the template as a normal message. Check out [#variables](config.md#variables "mention") for a list of variables
 * If you want your template to have embeds, you can use an embed builder like [discord.club](https://discord.club/dashboard)
+* Check out this [repo](https://github.com/Siris01/invite-management-templates) for a list of premade templates
 * Right click the message that you just sent, click on `Apps` then `Set as template`
 * Choose the type of template that you are trying to set
 
