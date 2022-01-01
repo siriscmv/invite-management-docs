@@ -33,7 +33,7 @@ description: List of configuration commands
 * `/config verification password <role> <password> <channel>` - Setup a verification system that requires a specific password
 * `/config verification randomised <role> <length> <channel>` - Setup a verification verification that uses randomised passwords
 
-![Setting up the join channel](https://i.imgur.com/nmF3XTD.png) ![Setting up the leave channel](https://i.imgur.com/YHx8BcL.png) ![Resetting the join-channel setting](https://i.imgur.com/WJEdmjy.png) ![Blacklisting a specific channel](https://i.imgur.com/zEQz6Zf.png) ![Sending a test join message](https://i.imgur.com/3VNOccd.png)
+![Setting up the join channel](https://i.imgur.com/nmF3XTD.png) ![Resetting the join-channel setting](https://i.imgur.com/WJEdmjy.png) ![Blacklisting a specific channel](https://i.imgur.com/zEQz6Zf.png) ![Sending a test join message](https://i.imgur.com/3VNOccd.png) ![Setting up the simple verification system](https://i.imgur.com/9UK9igo.png)
 {% endtab %}
 {% endtabs %}
 
@@ -43,7 +43,7 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 
 {% hint style="success" %}
 Checkout [#auto-refresh-leaderboard](FAQ.md#auto-refresh-leaderboard "mention") to setup the auto-refresh invites leaderboard.
-Checkout [#verification-system](FAQ.md#verification-system "mention") to setup the Verification system.
+Checkout [#verification-system](FAQ.md#verification-system "mention") to setup the verification system.
 {% endhint %}
 
 ## `reset`
