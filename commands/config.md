@@ -42,8 +42,8 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 {% endhint %}
 
 {% hint style="success" %}
-Checkout [#auto-refresh-leaderboard](FAQ.md#auto-refresh-leaderboard "mention") to setup the auto-refresh invites leaderboard.  
-Checkout [#verification-system](FAQ.md#verification-system "mention") to setup the verification system.
+Checkout [#auto-refresh-leaderboard](faq.md#auto-refresh-leaderboard "mention") to setup the auto-refresh invites leaderboard.  
+Checkout [#verification-system](faq.md#verification-system "mention") to setup the verification system.
 {% endhint %}
 
 ## `reset`
