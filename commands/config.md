@@ -29,6 +29,9 @@ description: List of configuration commands
 * `/config test message <type>` - Send a test join/leave message
 * `/config auto-refresh-leaderboard set <Channel>` - Setup the auto-refresh invites lb in the specified channel
 * `/config auto-refresh-leaderboard reset` - Disable the current auto-refresh lb
+* `/config verification simple <role> <channel>` - Setup a simple verification system using buttons
+* `/config verification password <role> <password> <channel>` - Setup a verification system that requires a specific password
+* `/config verification randomised <role> <length> <channel>` - Setup a verification verification that uses randomised passwords
 
 ![Setting up the join channel](https://i.imgur.com/nmF3XTD.png) ![Setting up the leave channel](https://i.imgur.com/YHx8BcL.png) ![Resetting the join-channel setting](https://i.imgur.com/WJEdmjy.png) ![Blacklisting a specific channel](https://i.imgur.com/zEQz6Zf.png) ![Sending a test join message](https://i.imgur.com/3VNOccd.png)
 {% endtab %}
@@ -36,6 +39,11 @@ description: List of configuration commands
 
 {% hint style="warning" %}
 Please use the [#set-as-template](config.md#set-as-template "mention") command for setting up join / leave message templates. It is much easier to use and also supports multi-line input, embeds, and URL buttons!
+{% endhint %}
+
+{% hint style="success" %}
+Checkout [#auto-refresh-leaderboard](FAQ.md#auto-refresh-leaderboard "mention") to setup the auto-refresh invites leaderboard.
+Checkout [#verification-system](FAQ.md#verification-system "mention") to setup the Verification system.
 {% endhint %}
 
 ## `reset`
