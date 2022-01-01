@@ -13,7 +13,8 @@
 
 ## **Advanced verification system**
 
-* Grants a role to the member upon successful verification 
+* Grants a role to the member upon successful verification
+
 Supports three types of verification:
 * **Simple**: Members will have to press a button to get verified This type is effective against automated user accounts.
 * **Password**: Set a pre-defined password which the user has to enter (using buttons) to get verified. Useful if you own a super exclusive server or you just want to hide the password in your rules, ensuring that all new members will actually read your server's rules :)
