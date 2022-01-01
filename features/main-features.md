@@ -11,6 +11,16 @@
 
 ![Fully customisable messages](https://i.imgur.com/kPQ2x4T.png) 
 
+## **Advanced verification system**
+
+* Grants a role to the member upon successful verification 
+Supports three types of verification:
+* **Simple**: Members will have to press a button to get verified This type is effective against automated user accounts.
+* **Password**: Set a pre-defined password which the user has to enter (using buttons) to get verified. Useful if you own a super exclusive server or you just want to hide the password in your rules, ensuring that all new members will actually read your server's rules :)
+* **Randomised**: Make the bot randomise the password (of specified length) which the user has to enter (using buttons) to get verified.
+
+![Simple Verification](https://i.imgur.com/wG8yUcY.mp4) ![Advanced Verification](https://i.imgur.com/s1pbmev.mp4)
+
 ## **Auto refresh invites leaderboard**
 
 * An invites leaderboard that updates itself once in an hour automatically!
