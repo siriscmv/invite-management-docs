@@ -42,8 +42,8 @@ Please use the [#set-as-template](config.md#set-as-template "mention") command f
 {% endhint %}
 
 {% hint style="success" %}
-Checkout [#auto-refresh-leaderboard](faq.md#auto-refresh-leaderboard "mention") to setup the auto-refresh invites leaderboard.  
-Checkout [#verification-system](faq.md#verification-system "mention") to setup the verification system.
+Checkout [#auto-refresh-leaderboard](../FAQ.md#auto-refresh-leaderboard "mention") to setup the auto-refresh invites leaderboard.\
+Checkout [#verification-system](../FAQ.md#verification-system "mention") to setup the verification system.
 {% endhint %}
 
 ## `reset`
@@ -89,14 +89,15 @@ Checkout [#verification-system](faq.md#verification-system "mention") to setup t
 
 {% tabs %}
 {% tab title="Slash" %}
-* `/variables` - View a list of all available variables that you can use to customise join / leave message templates  
+* `/variables` - View a list of all available variables that you can use to customise join / leave message templates
 
-**List of variables:** 
+**List of variables:**
+
 * `user_id` - The ID of the user who joined (example: `581451736305106985`)
 * `user_tag` - The tag of the user who joined (example: `Siris#1337`)
 * `user_mention` - The metion of the user who joined (example: `<@581451736305106985>`)
 * `user_created_date` - The relative date when the user's account was created
-* `user_joined_date` - The relative date when the user joined 
+* `user_joined_date` - The relative date when the user joined
 * `inviter_id` - The ID of the inviter
 * `inviter_tag` - The tag of the inviter
 * `inviter_mention` - The mention of the inviter
@@ -111,7 +112,7 @@ Checkout [#verification-system](faq.md#verification-system "mention") to setup t
 * `guild_membercount` - The total number of members present in the server
 * `https://cdn.discordapp.com/avatars/user` - The avatar link of the user who joined
 * `https://cdn.discordapp.com/avatars/server` - The avatar link of the server
-* `https://cdn.discordapp.com/avatars/inviter` - The avatar link of the inviter 
+* `https://cdn.discordapp.com/avatars/inviter` - The avatar link of the inviter
 
 **Note:** All the variables (excpet the last 3 avatar type variables) are supposed to be enclosed within `${}` (example: `${inviter_tag}`)
 {% endtab %}
