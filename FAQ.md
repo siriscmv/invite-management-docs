@@ -79,7 +79,7 @@ Setup an invites lb that refreshes itself automatically. It also has a handy "ch
 There are currently 3 types of verification:
 * **Simple**: Members will have to press a button to get verified This type is effective against automated user accounts.
 * **Password**: Set a pre-defined password which the user has to enter (using buttons) to get verified. Useful if you own a super exclusive server or you just want to hide the password in your rules, ensuring that all new members will actually read your server's rules :)
-* **Randomised**: Make the bot randomise the password (of specified length) which the user has to enter (using buttons) to get verified.
+* **Randomised**: Make the bot randomise the password (of specified length) which the user has to enter (using buttons) to get verified.  
 
 Setting up the verification system:
 

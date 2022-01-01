@@ -13,7 +13,7 @@
 
 ## **Advanced verification system**
 
-* Grants a role to the member upon successful verification
+* Grants a role to the member upon successful verification  
 
 Supports three types of verification:
 * **Simple**: Members will have to press a button to get verified This type is effective against automated user accounts.
