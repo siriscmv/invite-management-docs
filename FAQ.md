@@ -82,6 +82,7 @@ There are currently 3 types of verification:
 * **Randomised**: Make the bot randomise the password (of specified length) which the user has to enter (using buttons) to get verified.
 
 Setting up the verification system:
+
 ![Simple verification](https://i.imgur.com/9UK9igo.png)
 ![Password verification: 12159](https://i.imgur.com/9OT6UKr.png)
 ![Randomised password of length 4](https://i.imgur.com/mRGJmt4.png)
