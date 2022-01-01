@@ -2,22 +2,6 @@
 description: List of general commands
 ---
 
-# `faq`
-
-{% tabs %}
-{% tab title="Slash" %}
-
-* `/faq` - Get a list of frequently asked questions 
-
-{% endtab %}
-
-{% tab title="Normal" %}
-
-* `faq` - Get a list of frequently asked questions 
-
-{% endtab %}
-{% endtabs %}
-
 # `help`
 
 {% tabs %}
