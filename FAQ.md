@@ -1,12 +1,14 @@
 ---
 description: Some frequently asked questions about the bot
+cover: .gitbook/assets/Quepal.jpg
+coverY: 0
 ---
 
 # FAQ
 
 ## Basic setup
 
-Learn how to setup the join channel, and how to customize the template&#x20;
+Learn how to setup the join channel, and how to customize the template
 
 * Use the `/config set` slash command to setup join and leave channels by providing the channel
 
@@ -78,16 +80,16 @@ Setup an invites lb that refreshes itself automatically. It also has a handy "ch
 ## Verification System
 
 There are currently 3 types of verification:
+
 * **Simple**: Members will have to press a button to get verified This type is effective against automated user accounts.
 * **Password**: Set a pre-defined password which the user has to enter (using buttons) to get verified. Useful if you own a super exclusive server or you just want to hide the password in your rules, ensuring that all new members will actually read your server's rules :)
-* **Randomised**: Make the bot randomise the password (of specified length) which the user has to enter (using buttons) to get verified.  
+* **Randomised**: Make the bot randomise the password (of specified length) which the user has to enter (using buttons) to get verified.
 
 Setting up the verification system:
 
-![Simple verification](https://i.imgur.com/9UK9igo.png)
-![Password verification: 12159](https://i.imgur.com/9OT6UKr.png)
-![Randomised password of length 4](https://i.imgur.com/mRGJmt4.png)
+![Simple verification](https://i.imgur.com/9UK9igo.png) ![Password verification: 12159](https://i.imgur.com/9OT6UKr.png) ![Randomised password of length 4](https://i.imgur.com/mRGJmt4.png)
 
-Note: 
+Note:
+
 * `role` is the role which will be given upon successful verification.
 * `channel` is the channel where the verification embed will be sent.

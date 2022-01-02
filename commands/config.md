@@ -1,5 +1,7 @@
 ---
 description: List of configuration commands
+cover: ../.gitbook/assets/Frost.jpg
+coverY: 0
 ---
 
 # Config

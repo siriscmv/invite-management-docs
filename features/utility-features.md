@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Back To Earth.jpg
+coverY: 0
+---
+
 # Utility features
 
 * **Info** command that shows you extensive information about users, roles, channels, etc

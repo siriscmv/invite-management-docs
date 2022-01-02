@@ -1,8 +1,10 @@
 ---
 description: Join the official support server
+cover: ../.gitbook/assets/Stripe.jpg
+coverY: 0
 ---
 
-# Support Server
+# Support
 
 * **`Invite Management Support`** - [https://discord.com/invite/fFt8U2hZRn](https://discord.com/invite/fFt8U2hZRn)
 * **`Short link`** - [https://dsc.gg/invi-support](https://dsc.gg/invi-support)

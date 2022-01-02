@@ -1,98 +1,80 @@
 ---
 description: List of commands related to invites
+cover: ../.gitbook/assets/DIMIGO.jpg
+coverY: 0
 ---
 
-# `invitecodes`
+# Invites
+
+## `invitecodes`
 
 {% tabs %}
 {% tab title="Slash" %}
-
 * `/invitecodes <target>` - List of the target user's invite codes
-
 {% endtab %}
 
 {% tab title="Normal" %}
-
 * `invitecodes <target>` - List of the target user's invite codes
-
 {% endtab %}
 {% endtabs %}
 
-# `invited`
+## `invited`
 
 {% tabs %}
 {% tab title="Slash" %}
-
 * `/invited <target>` - Get a list of users invited by the target user
 
 ![The invited command](https://i.imgur.com/1BEYcru.png)
-
 {% endtab %}
 
 {% tab title="Normal" %}
-
 * `invited <target>` - Get a list of users invited by the target user
-
 {% endtab %}
 {% endtabs %}
 
-# `inviter`
+## `inviter`
 
 {% tabs %}
 {% tab title="Slash" %}
-
 * `/inviter <target>` - Find the person who invited the target user
 
 ![The inviter command](https://i.imgur.com/ZC6Cv1R.png)
-
 {% endtab %}
 
 {% tab title="Normal" %}
-
 * `inviter <target>` - Find the person who invited the target user
-
 {% endtab %}
 
 {% tab title="Context Menu" %}
-
 * Go the profile of the target user
 * Right click them, then `Apps`, then `Inviter`
-
 {% endtab %}
 {% endtabs %}
 
-# `invites`
+## `invites`
 
 {% tabs %}
 {% tab title="Slash" %}
-
-* `/invites <target>` - Get the invite count of the target user 
+* `/invites <target>` - Get the invite count of the target user
 
 ![The invites command](https://i.imgur.com/5UQ1KXM.png)
-
 {% endtab %}
 
 {% tab title="Normal" %}
-
-* `invites <target>` - Get the invite count of the target user 
-
+* `invites <target>` - Get the invite count of the target user
 {% endtab %}
 {% endtabs %}
 
-# `leaderboard`
+## `leaderboard`
 
 {% tabs %}
 {% tab title="Slash" %}
-
 * `/leaderboard` - List of top inviters in your server
-
 {% endtab %}
 
 {% tab title="Normal" %}
-
 * **Aliases**: `lb`, `top`
 * **Usage**: `leaderboard` - List of top inviters in your server
-
 {% endtab %}
 {% endtabs %}
 

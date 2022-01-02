@@ -1,4 +1,9 @@
-# Main features 
+---
+cover: ../.gitbook/assets/Burning Orange.jpg
+coverY: 0
+---
+
+# Main features
 
 {% hint style="success" %}
 **Invite Management:** An useful invite tracing bot that can help you manage your server's invites by **tracking** joins and leaves. It also comes packed with some useful utility features!
@@ -9,13 +14,14 @@
 * **Variables** command gives you the extensive list of variables that can be used to customise your messages
 * Supports upto 10 **embeds** and 5 URL **Buttons**
 
-![Fully customisable messages](https://i.imgur.com/kPQ2x4T.png) 
+![Fully customisable messages](https://i.imgur.com/kPQ2x4T.png)
 
 ## **Advanced verification system**
 
-* Grants a role to the member upon successful verification  
+* Grants a role to the member upon successful verification
 
 Supports three types of verification:
+
 * **Simple**: Members will have to press a button to get verified This type is effective against automated user accounts.
 * **Password**: Set a pre-defined password which the user has to enter (using buttons) to get verified. Useful if you own a super exclusive server or you just want to hide the password in your rules, ensuring that all new members will actually read your server's rules :)
 * **Randomised**: Make the bot randomise the password (of specified length) which the user has to enter (using buttons) to get verified.
@@ -27,7 +33,7 @@ Supports three types of verification:
 * An invites leaderboard that updates itself once in an hour automatically!
 * Features a "Check invites" button that shows current invites count along with rank
 
-![Auto refresh leaderboard](https://i.imgur.com/75DfNfh.gif) 
+![Auto refresh leaderboard](https://i.imgur.com/75DfNfh.gif)
 
 ## **Plethora of useful invite management commands**
 
