@@ -14,7 +14,7 @@ This permission is essential for majority of the commands to work correctly
 
 * **`Short Link`** - [https://dsc.gg/invi](https://dsc.gg/invi)
 * **`Another Short Link`** - [https://dsc.im/bot](https://dsc.im/bot)
-* **`Default link`** - [https://discord.com/oauth2/authorize?\&client\_id=873934253468024852\&scope=applications.commands+bot\&permissions=2214939680\&response\_type=code\&redirect\_uri=https://siris.gitbook.io/invite-management/](https://discord.com/oauth2/authorize?\&client\_id=873934253468024852\&scope=applications.commands+bot\&permissions=2214939680\&response\_type=code\&redirect\_uri=https://siris.gitbook.io/invite-management/)
+* **`Default link`** - [https://discord.com/api/oauth2/authorize?client_id=873934253468024852&permissions=347176&scope=bot%20applications.commands](https://discord.com/api/oauth2/authorize?client_id=873934253468024852&permissions=347176&scope=bot%20applications.commands)
 
 ![Invite Management](https://top.gg/api/widget/873934253468024852.svg)
 
