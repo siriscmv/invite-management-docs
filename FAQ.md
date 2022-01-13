@@ -8,15 +8,22 @@ coverY: 0
 
 ## Basic setup
 
-Learn how to setup the join channel, and how to customize the template
+Learn how to setup the join channel, and how to customize the template  
 
+Settings up join/leave channels:  
 * Use the `/config set` slash command to setup join and leave channels by providing the channel
 
-![setting up join channel](https://i.imgur.com/kWe5qjX.gif)
+![setting up join channel](https://i.imgur.com/kWe5qjX.gif)  
+
+Setting up join/leave messages:  
+
+{% hint style="info" %}
+The bot has a default template which will be used as soon as you set the join or leave channel. Follow the below steps if you wish to customize the default templates
+{% endhint %}  
 
 * Use the [#set-as-template](commands/config.md#set-as-template "mention") command to setup templates easily!
 * Look at [#variables](commands/config.md#variables "mention") for a list of available variables that you can use in your template.
-* You can use an embed builder like [discord.club](https://discord.club/dashboard) for making the template
+* You can use an embed builder like [discord.club](https://discord.club/dashboard) for making the template (You can watch youtube tutorials on how to use embed builders such has discord.club and discohook)
 * Check out this [repo](https://github.com/Siris01/invite-management-templates) for a list of premade templates
 
 ![setting up join message](https://i.imgur.com/NydLETl.gif)

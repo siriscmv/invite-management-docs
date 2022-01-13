@@ -20,3 +20,8 @@
 * [Invite me](links/invite-me.md)
 * [Support](links/support.md)
 * [Bot lists](links/bot-lists.md)
+
+## 📑 Terms and conditions
+
+* [Terms of service](terms/TOS.md)
+* [Privacy policy](terms/privacy-policy.md)

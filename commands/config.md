@@ -66,7 +66,7 @@ Checkout [#verification-system](../FAQ.md#verification-system "mention") to setu
 
 ## `Set as template`
 
-{% tabs %}
+{% tabs %} 
 {% tab title="Context Menu" %}
 * Send the template as a normal message. Check out [#variables](config.md#variables "mention") for a list of variables
 * If you want your template to have embeds, you can use an embed builder like [discord.club](https://discord.club/dashboard)
