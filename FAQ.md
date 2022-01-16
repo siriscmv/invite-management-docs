@@ -10,12 +10,12 @@ coverY: 0
 
 Learn how to setup the join channel, and how to customize the template  
 
-Settings up join/leave channels:  
+### Settings up join/leave channels:  
 * Use the `/config set` slash command to setup join and leave channels by providing the channel
 
 ![setting up join channel](https://i.imgur.com/kWe5qjX.gif)  
 
-Setting up join/leave messages:  
+### Setting up join/leave messages:  
 
 {% hint style="info" %}
 The bot has a default template which will be used as soon as you set the join or leave channel. Follow the below steps if you wish to customize the default templates
