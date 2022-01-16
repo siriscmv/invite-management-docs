@@ -15,9 +15,7 @@ By using any of our services you agree to follow the following conditions withou
 
 You _may_ be given one warning if you don't adhere to these conditions. We reserve the right to revoke or block access to any service at any time if you don't adhere to these conditions, violate our Terms of Service in any way, or for whatever reason we deem valid without justification.
 
-## Essential conditions
-
-The key words "MUST NOT", "SHALL NOT", "MAY" in all of the following portions of this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).  
+## Essential conditions  
 
 Inviting, using and participating in guilds with Invite Management constitutes your agreement to the terms below.  
 
@@ -33,7 +31,7 @@ Use of a third-party service in any service we provide does not indicate endorse
 
 ## Branding
 
-The name "Invite Management" or its logo MUST NOT be used in a way that is harmful to the brand, such as attempting to scam users and attempt to cause any harm to another user or any other malicious intent.
+The name "Invite Management" or its logo MUST NOT be used in a way that is harmful to the brand, such as attempting to scam users or any other malicious intent.
 
 ## Termination
 
