@@ -6,7 +6,7 @@ description: 'Last updated on 16th january 2022'
 
 ## Introduction and accepting the terms
 
-These Terms of Service (“Terms”), which include and hereby incorporate the [Privacy Policy](privacy-policy.md) (“Privacy Policy”), are a legal agreement between Invite Management ("we", "us", "our") and you ("you" or “your”). By using our services, you agree to the terms outlined within this document.
+These Terms of Service (“Terms”, “TOS”), which include and hereby incorporate the [Privacy Policy](privacy-policy.md) (“Privacy Policy”, “Policy”), are a legal agreement between Invite Management ("we", "us", "our") and you ("you" or “your”). By using our services, you agree to the terms outlined within this document.
 
 We may, at any time, and at our sole discretion, update or modify this document with or without prior notice.
 ## Rights to use our services

@@ -4,7 +4,7 @@ description: 'Last updated on 16th january 2022'
 
 # Privacy Policy  
 
-This page lists the policies regarding the collection and use of personal data by Invite Management ("we", "us") when you use our Service and the choices you have associated with that data.  
+This page lists the policies regarding the collection and use of personal data by Invite Management ("we", "us", "our") when you use our Service and the choices you have associated with that data.  
 By using the Service, you agree to the collection and use of information in accordance with this policy.
 
 ## What information do you collect?  
@@ -12,9 +12,9 @@ By using the Service, you agree to the collection and use of information in acco
 ### Data collected by Invite Management  
 * Server configurations: prefix, join/leave message, join/leave channel, etc.
 * User data: user ID, the list of users who have been invited, the number of times the person has voted for the bot, etc.
-* Guild data: The list of active guild invites and the number of times the invite has been used. This data is only stored in memory and is refreshed as and when required
+* Guild data: The list of active guild invites and the number of times the invite has been used. This data is only stored in memory and is refreshed as and when required.
 
-The User IDs and Guild IDs of users and guilds who break our terms of service are stored in order to prevent misuse of our service.
+The User IDs and Guild IDs of users and guilds who break our [terms of service](TOS.md) are stored to prevent misuse of our service.
 
 ### Data collected by external services  
 Data may be collected when using any related services or on domains including but not limited to:  
@@ -24,7 +24,7 @@ Data may be collected when using any related services or on domains including bu
 * [dsc.gg](https://dsc.gg/invi): Link shortening service 
 
 ## Why do you collect said data?  
-Data collected by Invite Management ("we", "us") and any related applications is solely used to provide and improve the service(s).
+Data collected by us and any related applications is solely used to provide and improve the service(s).
 * Invite links are stored in memory to facilitate the process of tracking the inviter as and when a new user joins your server.
 * Server configurations are stored to provide you with the ability to customize the functioning of our service.
 * The vote counts of users are stored to enable the functioning of voter only commands.
