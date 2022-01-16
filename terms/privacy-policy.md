@@ -4,7 +4,8 @@ description: 'Last updated on 16th january 2022'
 
 # Privacy Policy  
 
-This page lists the policies regarding the collection and use of personal data by Invite Management ("we", "us") when you use our Service and the choices you have associated with that data. By using the Service, you agree to the collection and use of information in accordance with this policy.
+This page lists the policies regarding the collection and use of personal data by Invite Management ("we", "us") when you use our Service and the choices you have associated with that data.  
+By using the Service, you agree to the collection and use of information in accordance with this policy.
 
 ## What information do you collect?  
 
@@ -31,7 +32,9 @@ Data collected by Invite Management ("we", "us") and any related applications is
 ## Where is said data stored?
 
 Any data stored by Invite Management itself is safely located in the server that the bot is hosted on. This data is only accessible by the hosting providers themselves and the bot owner(s).  
-eriodic backups are taken as a safety precaution to prevent data loss or corruption. If you wish to enquire about the bot's current hosting provider, you may do so by contacting us at our [support server](https://discord.gg/uXbczw9aax).  
+
+Periodic backups are taken as a safety precaution to prevent data loss or corruption. If you wish to enquire about the bot's current hosting provider, you may do so by contacting us at our [support server](https://discord.gg/uXbczw9aax).  
+
 As for third-party services, we cannot guarantee where the data is stored therefore we are unable to guarantee data will not be processed and/or stored in certain locations.
 
 ## Do you sell or share said data?
