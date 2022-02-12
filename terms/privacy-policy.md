@@ -13,8 +13,9 @@ By using the Service, you agree to the collection and use of information in acco
 * Server configurations: prefix, join/leave message, join/leave channel, etc.
 * User data: user ID, the list of users who have been invited, the number of times the person has voted for the bot, etc.
 * Guild data: The list of active guild invites and the number of times the invite has been used. This data is only stored in memory and is refreshed as and when required.
+* Vanity data: The vanity URL of the guild (if any), along with the number of uses.
 * Basic information about the guild (id, owner id, name, etc.) are logged when the bot joins or leaves a guild.
-* Ratelimit data (channel/message/user id, type of ratelimit, etc) are logged when the bot hits / will hit a ratelimit from your guild. This is purely for debugging purposes.
+* Ratelimit data (channel/message/user id, type of ratelimit, etc) are logged when the bot hits / will hit a ratelimit from your guild.
 
 The User IDs and Guild IDs of users and guilds who break our [terms of service](TOS.md) are stored to prevent misuse of our service.
 
@@ -30,6 +31,8 @@ Data collected by us and any related applications is solely used to provide and 
 * Invite links are stored in memory to facilitate the process of tracking the inviter as and when a new user joins your server.
 * Server configurations are stored to provide you with the ability to customize the functioning of our service.
 * The vote counts of users are stored to enable the functioning of voter only commands.
+* Vanity data is collected to show vanity data (number of uses, vanity url, etc) while sending join / leave messages
+* Ratelimit data is logged purely for debugging purposes and to detect servers abusing the bot by spamming it.
 
 ## Where is said data stored?
 
