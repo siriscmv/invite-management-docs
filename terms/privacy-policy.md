@@ -1,5 +1,5 @@
 ---
-description: 'Last updated on 16th january 2022'
+description: 'Last updated on 16th february 2022'
 ---
 
 # Privacy Policy  
@@ -13,8 +13,8 @@ By using the Service, you agree to the collection and use of information in acco
 * Server configurations: prefix, join/leave message, join/leave channel, etc.
 * User data: user ID, the list of users who have been invited, the number of times the person has voted for the bot, etc.
 * Guild data: The list of active guild invites and the number of times the invite has been used. This data is only stored in memory and is refreshed as and when required.
-* Basic information about the guild (id, owner id, name, etc.) are logged when the bot joins or leaves a guild
-* Ratelimit data (channel/message/user id, type of ratelimit, etc) are logged when the bot hits / will hit a ratelimit from your guild. This is purely for debugging purposes
+* Basic information about the guild (id, owner id, name, etc.) are logged when the bot joins or leaves a guild.
+* Ratelimit data (channel/message/user id, type of ratelimit, etc) are logged when the bot hits / will hit a ratelimit from your guild. This is purely for debugging purposes.
 
 The User IDs and Guild IDs of users and guilds who break our [terms of service](TOS.md) are stored to prevent misuse of our service.
 
