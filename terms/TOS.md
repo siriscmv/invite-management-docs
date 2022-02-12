@@ -23,6 +23,7 @@ Inviting, using and participating in guilds with Invite Management constitutes y
 * You MUST NOT attempt to abuse, exploit or otherwise misuse the bot's features in any way.
 * You MUST NOT impersonate our bot using your own bot, webhooks and/or other means.
 * You MUST NOT use the bot to send any kind of spam, advertising, or other malicious content.
+* You MUST NOT indirectly spam the bot by botting (ie, filling your server with artificial accounts) your server.
 * You MUST NOT use the bot to aid activities that are unlawful, illegal or otherwise in violation of any law, including Discord's own [terms of Service](https://discord.com/terms).
 
 ## Use of third-party services
