@@ -10,12 +10,13 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Slash" %}
-* `/accounts <start-date> <type> <end-date> <target>` - Filter accounts that either joined / were created (depending on `type`) after `start-date`, before `end-date` and were invited by `target.`
+* `/accounts <start-date> <type> <end-date> <verified> <target>` - Filter [verified / unverified] accounts that either joined / were created (depending on `type`) after `start-date`, before `end-date` and were invited by `target.`
 * `<end-date>` is optional and defaults to current date
+* `<verified>` filters accounts that are either verified or unverified. If empty, verification status is ignored.
 * `<target>` is optional and defaults to everyone (ie) all accounts
 * The dates can be in any format, example: "10 minutes ago", "10 days ago", "02-09-2021". It also accepts a discord snowflake ID (message / user ids for example)
 
-![This command will filter accounts that joined b/w 5-10 days ago and were invited by liamm.](https://i.imgur.com/UXMMOfQ.png)
+![This command will filter unverified accounts that joined b/w 3-5 days ago and were invited by Siris](https://i.imgur.com/7Ydp5Wr.png)
 {% endtab %}
 {% endtabs %}
 
@@ -36,6 +37,18 @@ coverY: 0
 {% tab title="Context Menu" %}
 * Go to the profile of the target user
 * Right click them, then `Apps`, then `Avatar`
+{% endtab %}
+{% endtabs %}
+
+## `embed`
+
+{% tabs %}
+{% tab title="Slash" %}
+* `/embed send <channel> <json>` - Sends an embed message constructed using the json file provided to the specified channel
+* `/embed build <json>` - Opens an interactive interface that allows you to design embeds. A json file can also be provided to edit that embed instead of starting from scratch
+* `/embed source <id>` - Gets the raw json of a message from the current channel with the specified id
+
+![The embed commands](https://i.imgur.com/H7fCo7D.png)
 {% endtab %}
 {% endtabs %}
 
@@ -83,6 +96,21 @@ coverY: 0
 {% tab title="Normal" %}
 * **Aliases**: `mc`
 * **Usage**: `membercount` - Shows the member count of the server along with more statistics and a beautiful graph
+{% endtab %}
+{% endtabs %}
+
+## `purge-invites`
+
+{% tabs %}
+{% tab title="Slash" %}
+* `/purge-invites <uses> <targetUsers> <usersType> <targetChannels> <channelsType>` - Mass delete invite links 
+* `<uses>` invite links with uses less than or equal to this number will be deleted
+* `<targetUsers>` is optional and defaults to all users
+* `<usersType>` whether to inlucde or exclude the users mentioned in `<targetUsers>`. If empty, it defaults to include.
+* `<targetChannels>` is optional and defaults to  all channels
+* `<channelsType>` whether to inlucde or exclude the channels mentioned in `<targetChannels>`. If empty, it defaults to include.
+
+![The purge-invite command](https://i.imgur.com/rWHYjOI.png)
 {% endtab %}
 {% endtabs %}
 

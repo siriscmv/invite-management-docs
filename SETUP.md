@@ -27,3 +27,7 @@ The bot has a default template which will be used as soon as you set the join or
 {% endhint %}
 
 **Setting up join/leave messages**: Use the [#set-as-template](commands/config.md#set-as-template "mention") context menu command to easily setup join/leave messages
+
+## Other features
+
+If you wish to setup other features such as **auto refresh leaderboard**, **Advanced verification**, etc read the [#faq](FAQ.md "FAQ")) 

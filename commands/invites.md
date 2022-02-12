@@ -24,7 +24,7 @@ coverY: 0
 {% tab title="Slash" %}
 * `/invited <target>` - Get a list of users invited by the target user
 
-![The invited command](https://i.imgur.com/1BEYcru.png)
+![The invited command](https://i.imgur.com/JbmdQ8B.png)
 {% endtab %}
 
 {% tab title="Normal" %}
@@ -57,7 +57,7 @@ coverY: 0
 {% tab title="Slash" %}
 * `/invites <target>` - Get the invite count of the target user
 
-![The invites command](https://i.imgur.com/5UQ1KXM.png)
+![The invites command](https://i.imgur.com/pbEcowu.png)
 {% endtab %}
 
 {% tab title="Normal" %}
@@ -70,6 +70,8 @@ coverY: 0
 {% tabs %}
 {% tab title="Slash" %}
 * `/leaderboard` - List of top inviters in your server
+
+![The leaderboard command](https://i.imgur.com/s0oiG9k.png)
 {% endtab %}
 
 {% tab title="Normal" %}

@@ -68,13 +68,19 @@ Checkout [#verification-system](../FAQ.md#verification-system "mention") to setu
 
 {% tabs %} 
 {% tab title="Context Menu" %}
-* Send the template as a normal message. Check out [#variables](config.md#variables "mention") for a list of variables
-* If you want your template to have embeds, you can use an embed builder like [discord.club](https://discord.club/dashboard)
-* Check out this [repo](https://github.com/Siris01/invite-management-templates) for a list of premade templates
+* Look at [#variables](commands/config.md#variables "mention") for a list of available variables that you can use in your template.
+* You can use the `/embed build` command for designing the template, or download premade json templates from this [repo](https://github.com/Siris01/invite-management-templates) and use the `/embed send <channel> <json>` command to send the template to the channel. 
 * Right click the message that you just sent, click on `Apps` then `Set as template`
 * Choose the type of template that you are trying to set
 
-![Setting up join messages using the Set as template context menu command](https://i.imgur.com/NydLETl.gif)
+![Setting up join messages using the Set as template context menu command](https://i.imgur.com/UkT1EYv.gif)
+{% endtab %}
+{% tab title="Normal" %}
+* **Aliases**: `set-template`, `set-msg`
+* Look at [#variables](commands/config.md#variables "mention") for a list of available variables that you can use in your template.
+* You can use the `/embed build` command for designing the template, or download premade json templates from this [repo](https://github.com/Siris01/invite-management-templates) and use the `/embed send <channel> <json>` command to send the template to the channel. 
+* Use the command while replying to the message that you just sent
+* Choose the type of template that you are trying to set
 {% endtab %}
 {% endtabs %}
 
@@ -93,6 +99,14 @@ Checkout [#verification-system](../FAQ.md#verification-system "mention") to setu
 {% tabs %}
 {% tab title="Slash" %}
 * `/variables` - View a list of all available variables that you can use to customise join / leave message templates
+
+{% endtab %}
+{% tab title="Normal" %}
+* **Aliases**: `vars`
+* View a list of all available variables that you can use to customise join / leave message templates
+
+{% endtab %}
+{% endtabs %}
 
 **List of variables:**
 
@@ -118,8 +132,6 @@ Checkout [#verification-system](../FAQ.md#verification-system "mention") to setu
 * `https://cdn.discordapp.com/avatars/inviter` - The avatar link of the inviter
 
 **Note:** All the variables (excpet the last 3 avatar type variables) are supposed to be enclosed within `${}` (example: `${inviter_tag}`)
-{% endtab %}
-{% endtabs %}
 
 {% hint style="success" %}
 Normal commands are supposed to be used with a prefix. The default prefix for normal commands is the bot's mention ( **`@Invite Management#6068`** ) and **`+`**

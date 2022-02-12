@@ -21,12 +21,11 @@ Learn how to setup the join channel, and how to customize the template
 The bot has a default template which will be used as soon as you set the join or leave channel. Follow the below steps if you wish to customize the default templates
 {% endhint %}  
 
-* Use the [#set-as-template](commands/config.md#set-as-template "mention") command to setup templates easily!
 * Look at [#variables](commands/config.md#variables "mention") for a list of available variables that you can use in your template.
-* You can use an embed builder like [discord.club](https://discord.club/dashboard) for making the template. Youtube tutorials are available on how to use embed builders such as discord.club and discohook.
-* Check out this [repo](https://github.com/Siris01/invite-management-templates) for a list of premade templates.
+* You can use the `/embed build` command for designing the template, or download premade json templates from this [repo](https://github.com/Siris01/invite-management-templates) and use the `/embed send <channel> <json>` command to send the template to the channel. 
+* Once you are done designing the template, send it in any channel and then use the [#set-as-template](commands/config.md#set-as-template "mention") command on the message that you just sent (Right click -> Apps -> Set as template)
 
-![setting up join message](https://i.imgur.com/NydLETl.gif)
+![setting up join message](https://i.imgur.com/UkT1EYv.gif)
 
 ## Context Menus
 
@@ -39,8 +38,9 @@ Learn to use context menus
 
 Learn to use the accounts command to filter accounts and perform certain actions
 
-* Provide a date for the `start-date` option, this can be a snowflake id, date in dd-mm-yyyy format or a data in human form like "10 minutes ago"
+* Provide a date for the `start-date` option, this can be a discord snowflake id, date in dd-mm-yyyy format or a data in human form like "10 minutes ago"
 * Set the type to either filter by creation/join date
+* Additionally you can filter out only the users that are not verified by setting the verified option to False
 * You can also optionally provide an `end-date` & a `target` to filter accounts that are invited by that target
 
 ![The accounts command](https://i.imgur.com/AV6ygSE.gif)

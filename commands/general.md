@@ -45,10 +45,6 @@ coverY: 0
 ## `prefix`
 
 {% tabs %}
-{% tab title="Slash" %}
-* `/prefix` - Shows the bot's current prefix
-{% endtab %}
-
 {% tab title="Normal" %}
 * `prefix` - Shows the bot's current prefix
 {% endtab %}

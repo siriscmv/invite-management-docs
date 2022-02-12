@@ -12,13 +12,13 @@ coverY: 0
 **Invite Management** is a bot that can help you manage your server's invites by tracing each join and keeping track of invite counts. It also has a plethora of handy utility features.
 {% endhint %}
 
-* **Invite tracking**\
+💠 **Invite tracking**
 
-* **Advanced Verification**\
+💠 **Advanced Verification**
 
-* **Customisable join/leave messages with embeds**\
+💠 **Customisable join/leave messages with embeds**
 
-* **Auto-refresh leaderboard**
+💠 **Auto-refresh leaderboard**
 
 ## Add the bot to your own server
 

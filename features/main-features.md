@@ -42,6 +42,6 @@ Supports three types of verification:
 * **Invited** shows a paginated list of users invited by the specified user
 * **Leaderboard** shows a paginated list of top inviters in your server (edited)
 
-![Invites command](https://i.imgur.com/5UQ1KXM.png) ![inviter command](https://i.imgur.com/ZC6Cv1R.png)
+![Invites command](https://i.imgur.com/pbEcowu.png) ![inviter command](https://i.imgur.com/ZC6Cv1R.png)
 
-![invited command](https://i.imgur.com/1BEYcru.png) ![leaderboard command](https://i.imgur.com/iqlDooM.png)
+![invited command](https://i.imgur.com/JbmdQ8B.png) ![leaderboard command](https://i.imgur.com/s0oiG9k.png)
