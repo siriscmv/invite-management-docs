@@ -30,4 +30,4 @@ The bot has a default template which will be used as soon as you set the join or
 
 ## Other features
 
-If you wish to setup other features such as **auto refresh leaderboard**, **Advanced verification**, etc read the [#faq](FAQ.md "FAQ")) 
+If you wish to setup other features such as **auto refresh leaderboard**, **Advanced verification**, etc read the [#faq](FAQ.md "FAQ") 

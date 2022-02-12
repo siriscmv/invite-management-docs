@@ -106,9 +106,9 @@ coverY: 0
 * `/purge-invites <uses> <targetUsers> <usersType> <targetChannels> <channelsType>` - Mass delete invite links 
 * `<uses>` invite links with uses less than or equal to this number will be deleted
 * `<targetUsers>` is optional and defaults to all users
-* `<usersType>` whether to inlucde or exclude the users mentioned in `<targetUsers>`. If empty, it defaults to include.
+* `<usersType>` whether to inlucde or exclude the users mentioned in `<targetUsers>`
 * `<targetChannels>` is optional and defaults to  all channels
-* `<channelsType>` whether to inlucde or exclude the channels mentioned in `<targetChannels>`. If empty, it defaults to include.
+* `<channelsType>` whether to inlucde or exclude the channels mentioned in `<targetChannels>`
 
 ![The purge-invite command](https://i.imgur.com/rWHYjOI.png)
 {% endtab %}
