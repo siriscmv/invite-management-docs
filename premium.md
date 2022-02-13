@@ -3,7 +3,7 @@
 ### Tier 1
 * **Prioritised invite tracking**: If there is a queue of invites pending to be traced, yours will be **traced instantly**
 * **Prioritised command responses (+inviter)**: If you use the `+inviter` command as the same time as multiple people, the bot will reply to you first! (even if there are people who used the command before you)
-* **Reduced command cooldowns**: All the cooldowns for normal commands will be reduced by **50%**
+* **Reduced command cooldowns**: All the cooldowns for commands will be reduced by **50%**
 * Ability to **bypass** voter-only commands / features
 * **Special role** in our support server and **Special embed colour** in invite-related commands, and a thank you message in embed footers
 
