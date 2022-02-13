@@ -3,7 +3,8 @@
 * [Introduction](README.md)
 * [Basic Setup](SETUP.md)
 * [FAQ](FAQ.md)
-* [Premium](PREMIUM.md)
+* [Premium](premium.md)
+
 ## 🎉 Features
 
 * [Main features](features/main-features.md)
