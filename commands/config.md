@@ -78,7 +78,7 @@ Checkout [#verification-system](../FAQ.md#verification-system "mention") to setu
 
 {% tab title="Normal" %}
 * **Aliases**: `set-template`, `set-msg`
-* Look at [config.md](commands/config.md#variables "mention") for a list of available variables that you can use in your template.
+* Look at [#variables](config.md#variables "mention") for a list of available variables that you can use in your template.
 * You can use the `/embed build` command for designing the template, or download premade json templates from this [repo](https://github.com/Siris01/invite-management-templates) and use the `/embed send <channel> <json>` command to send the template to the channel.
 * Use the command while replying to the message that you just sent
 * Choose the type of template that you are trying to set
