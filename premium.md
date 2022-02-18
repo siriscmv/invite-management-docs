@@ -2,7 +2,7 @@
 
 ### Tier 1
 
-* **Prioritised invite tracking**: If there is a queue of invites pending to be traced, yours will be **traced instantly**
+* **Prioritised invite tracking**: If there is a queue of invites pending to be traced, yours will be **traced instantly** (The perk gets applied to you when you join using someone's link and not when you invite other users)
 * **Prioritised command responses (+inviter)**: If you use the `+inviter` command as the same time as multiple people, the bot will reply to you first! (even if there are people who used the command before you)
 * **Reduced command cooldowns**: Command cooldowns will be reduced by **50%**
 * Ability to **bypass** voter-only commands / features
