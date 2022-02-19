@@ -13,7 +13,7 @@
 * All the members of your server can **bypass** voter-only commands / features in your server
 * **Priority support**: You may DM the developer directly for support
 * Ability to **customize** the verification embed
-* **Special role** for you in our support server
+* **Special role** for you in our support server 
 
 ### Tier 3
 
@@ -22,7 +22,7 @@
 * Ability to **customize** the verification embed
 * Ability to change the **username and avatar** of the bot
 * Ability to **disable** commands
-* **Special role** for in our support server
+* **Special role** in our support server
 
 {% hint style="info" %}
 Payment method is cryptocurrency only at the moment. All the tiers are on a monthly basis. Please join our [support server](https://discord.gg/rQxgcWw6Ea) if you wish to purchase a tier.
