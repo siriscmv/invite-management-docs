@@ -31,9 +31,9 @@ coverY: 0
 * `/config test message <type>` - Send a test join/leave message
 * `/config auto-refresh-leaderboard set <Channel>` - Setup the auto-refresh invites lb in the specified channel
 * `/config auto-refresh-leaderboard reset` - Disable the current auto-refresh lb
-* `/config verification simple <role> <channel>` - Setup a simple verification system using buttons
-* `/config verification password <role> <password> <channel>` - Setup a verification system that requires a specific password
-* `/config verification randomised <role> <length> <channel>` - Setup a verification verification that uses randomised passwords
+* `/config verification simple <role> <channel> <json>` - Setup a simple verification system using buttons
+* `/config verification password <role> <password> <channel> <json>` - Setup a verification system that requires a specific password
+* `/config verification randomised <role> <length> <channel> <json>` - Setup a verification verification that uses randomised passwords
 
 ![Setting up the join channel](https://i.imgur.com/nmF3XTD.png) ![Resetting the join-channel setting](https://i.imgur.com/WJEdmjy.png) ![Blacklisting a specific channel](https://i.imgur.com/zEQz6Zf.png) ![Sending a test join message](https://i.imgur.com/3VNOccd.png) ![Setting up the simple verification system](https://i.imgur.com/9UK9igo.png)
 {% endtab %}

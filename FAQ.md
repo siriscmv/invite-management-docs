@@ -100,3 +100,4 @@ Note:
 
 * `role` is the role which will be given upon successful verification.
 * `channel` is the channel where the verification embed will be sent.
+* The embed can be customized by providing a json file in the `/config verification` command. This is restricted to premium tiers 2 and 3
