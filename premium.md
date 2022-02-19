@@ -11,17 +11,18 @@
 ### Tier 2
 
 * All the members of your server can **bypass** voter-only commands / features in your server
-* **Priority support**: You may DM the developer directly for support
+* **Priority support**: Get access to a special private help channel
 * Ability to **customize** the verification embed
 * **Special role** for you in our support server 
 
 ### Tier 3
 
 * Get a custom bot for your own server(s)!
-* Faster tracing of invites (useful if you own a server that has a high concurrent influx of members)
+* Faster tracing of invites, useful if you own a server that has a high concurrent influx of members. (Can trace 25 incoming invites in less than half a second whereas the normal bot would take more than 5 seconds)
 * Ability to **customize** the verification embed
 * Ability to change the **username and avatar** of the bot
 * Ability to **disable** commands
+* **Priority support**: Get access to a special private help channel
 * **Special role** in our support server
 
 {% hint style="info" %}
