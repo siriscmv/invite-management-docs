@@ -6,9 +6,9 @@ coverY: 0
 
 # Support
 
-* **`Invite Management Support`** - [https://discord.com/invite/fFt8U2hZRn](https://discord.com/invite/fFt8U2hZRn)
+* **`Invite Management Support`** - [https://discord.com/invite/uXbczw9aax](https://discord.com/invite/uXbczw9aax)
 * **`Short link`** - [https://dsc.gg/invi-support](https://dsc.gg/invi-support)
 
-{% embed url="https://discord.com/invite/fFt8U2hZRn" %}
+{% embed url="https://discord.com/invite/uXbczw9aax" %}
 Support server
 {% endembed %}
