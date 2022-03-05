@@ -20,6 +20,8 @@ coverY: 0
 
 💠 **Auto-refresh leaderboard**
 
+![Invite Management](https://i.imgur.com/1ELlK1Z.png)
+
 ## Add the bot to your own server
 
 Click the links below to add the bot and join our support server
