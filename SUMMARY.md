@@ -22,6 +22,7 @@
 * [Invite me](links/invite-me.md)
 * [Support](links/support.md)
 * [Bot lists](links/bot-lists.md)
+* [Website](links/website.md)
 
 ## 📑 Terms and conditions
 
