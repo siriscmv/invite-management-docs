@@ -18,13 +18,14 @@
 ### Tier 3
 
 * Get a custom bot for your own server(s)!
-* Faster tracing of invites, useful if you own a server that has a high concurrent influx of members. (Can trace 25 incoming invites in less than half a second whereas the normal bot would take more than 5 seconds)
+* Better uptime and stability
 * Ability to **customize** the verification embed
+* **Kick** or **ban** users automatically if they fail to verify
 * Ability to change the **username and avatar** of the bot
 * Ability to **disable** commands
 * **Priority support**: Get access to a special private help channel
 * **Special role** in our support server
 
 {% hint style="info" %}
-Payment method is cryptocurrency only at the moment. All the tiers are on a monthly basis. Please join our [support server](https://discord.gg/rQxgcWw6Ea) if you wish to purchase a tier.
+Payment method is cryptocurrency only at the moment. All the tiers are on a monthly basis. Please join our [support server](https://discord.gg/rQxgcWw6Ea) or use our [https://invi.sellix.io](sellix page) if you wish to purchase a tier.
 {% endhint %}
