@@ -27,5 +27,5 @@
 * **Special role** in our support server
 
 {% hint style="info" %}
-Payment method is cryptocurrency only at the moment. All the tiers are on a monthly basis. Please join our [support server](https://discord.gg/rQxgcWw6Ea) or use our [https://invi.sellix.io](sellix page) if you wish to purchase a tier.
+Payment method is cryptocurrency only at the moment. All the tiers are on a monthly basis. Please join our [support server](https://discord.gg/rQxgcWw6Ea) or use our [sellix page](https://invi.sellix.io) if you wish to purchase a tier.
 {% endhint %}
