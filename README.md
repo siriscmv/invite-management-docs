@@ -33,3 +33,11 @@ Invite link of the bot
 {% embed url="https://dsc.gg/invi-support" %}
 Official Support Server of the bot
 {% endembed %}
+
+## Using commands  
+
+The bot uses discord's slash commands. To use the commands, type `/` in any channel and you will see a list of commands. Click on the command you want to use and follow the instructions.
+
+{% hint style="danger" %}
+Normal commands can still be used using the bot's menion (eg `@Invite Management#6068 help`), but support for normal commands will be dropped soon.
+{% endhint %}

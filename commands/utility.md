@@ -113,7 +113,3 @@ coverY: 0
 ![The purge-invite command](https://i.imgur.com/rWHYjOI.png)
 {% endtab %}
 {% endtabs %}
-
-{% hint style="success" %}
-Normal commands are supposed to be used with a prefix. The default prefix for normal commands is the bot's mention ( **`@Invite Management#6068`** ) and **`+`**
-{% endhint %}

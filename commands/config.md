@@ -85,16 +85,6 @@ Checkout [#verification-system](../FAQ.md#verification-system "mention") to setu
 {% endtab %}
 {% endtabs %}
 
-## `setprefix`
-
-{% tabs %}
-{% tab title="Normal" %}
-* **Usage**: `setprefix <new-prefix>` - Sets the bot's prefix to `new-prefix`
-
-![Setting the bot prefix to ;](https://i.imgur.com/WxWHM9L.png)
-{% endtab %}
-{% endtabs %}
-
 ## `variables`
 
 {% tabs %}
@@ -133,6 +123,3 @@ Checkout [#verification-system](../FAQ.md#verification-system "mention") to setu
 
 **Note:** All the variables (excpet the last 3 avatar type variables) are supposed to be enclosed within `${}` (example: `${inviter_tag}`)
 
-{% hint style="success" %}
-Normal commands are supposed to be used with a prefix. The default prefix for normal commands is the bot's mention ( **`@Invite Management#6068`** ) and **`+`**
-{% endhint %}

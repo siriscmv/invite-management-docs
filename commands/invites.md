@@ -83,7 +83,3 @@ coverY: 0
 {% hint style="info" %}
 `<>` refers to user input. For example `<target>` refers to a user that is supposed to be entered while using the command. Most of these arguments are also optional
 {% endhint %}
-
-{% hint style="success" %}
-Normal commands are supposed to be used with a prefix. The default prefix for normal commands is the bot's mention ( **`@Invite Management#6068`** ) and **`+`**
-{% endhint %}
