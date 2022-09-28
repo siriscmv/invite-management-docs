@@ -1,5 +1,12 @@
 # Premium
 
+## Buy Now
+
+You can purchase premium tiers by visiting our [website](https://invi-bot.xyz/pricing)
+{% embed url="https://invi-bot.xyz/pricing" %}
+
+## Tiers
+
 ### Tier 1
 
 * **Prioritised invite tracking**: If there is a queue of invites pending to be traced, yours will be **traced instantly** (The perk gets applied to you when you join using someone's link and not when you invite other users)
@@ -25,7 +32,3 @@
 * Ability to **disable** commands
 * **Priority support**: Get access to a special private help channel
 * **Special role** in our support server
-
-{% hint style="info" %}
-Payment method is cryptocurrency only at the moment. All the tiers are on a monthly basis. Please join our [support server](https://discord.gg/rQxgcWw6Ea) and open a support ticket if you wish to purchase a tier.
-{% endhint %}
