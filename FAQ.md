@@ -6,6 +6,9 @@ coverY: 0
 
 # FAQ
 
+* It is not possible to assign role rewards (adding a role for x invites). This is because, doing so is against discord's terms of service.
+* If you see "unknown user" or random numbers instead of usernames in the leaderboard / invited commands, your app does not have those users cached. You can copy the contents of the embed and paste it in a private channel (to avoid pinging the users) to force your app to cache them. If you look back at the embed after doing this, it should show their usernames.
+
 ## Basic setup
 
 Learn how to setup the join channel, and how to customize the template  
